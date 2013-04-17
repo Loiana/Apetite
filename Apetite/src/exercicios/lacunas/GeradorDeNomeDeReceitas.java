@@ -17,7 +17,7 @@ public class GeradorDeNomeDeReceitas {
        "Sorvete",
        "Salada"
     };
-
+ 
     static private String[] adjetivos = {
        "Delicioso(a)",
        "de Morango",
